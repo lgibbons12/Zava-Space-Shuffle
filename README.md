@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=XtQMytORBmM&ab_channel=GameMaker%27sToolkit
 
 Then, I used the knowledge gained from that tutorial to make a mock-RPG game. It had player and enemy healths, with each entity being able to attack, heal, and raise their abilities.
 
+Here is a video of the working turn-based combat: https://drive.google.com/file/d/14AreNRUGKDOy48ofZXqqyN_CZCw2VQJY/view?usp=sharing
+
 Next, I started learning how to make platforming using this tutorial
 
 https://www.youtube.com/watch?v=QkbGr1rAya8&ab_channel=CodinginFlow
